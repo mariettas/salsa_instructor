@@ -31,7 +31,13 @@ moves = ["Setenta",
          "Exhíbela dos con una",
          "Sombrero",
          "Sombrero doble",
-         "Sombrero doble"]
+         "Sombrero doble",
+         "Ponle sabor",
+         "Kentucky",
+         "Candado",
+         "Candado complicado",
+         "Bailarina"]
+
 
 while True:
        instructor = input("Do you want me to give you a move? (y/n)").lower()
