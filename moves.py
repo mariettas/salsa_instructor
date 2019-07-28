@@ -39,15 +39,18 @@ moves = ["Setenta",
          "Bailarina"]
 
 
+
+
 while True:
-       instructor = input("Do you want me to give you a move? (y/n)").lower()
+    instructor = input("Do you want me to give you a move? (y/n)").lower()
 
-       if instructor == "y".lower():
-              print(random.choice(moves))
+    if instructor == "y".lower():
+        print(random.choice(moves))
 
-       else:
-              print("Sorry to hear that. Keep calm and suavecito.")
 
+    else:
+        print("Sorry to hear that. Keep calm and suavecito.")
+        break
 
 
 
