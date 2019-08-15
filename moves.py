@@ -11,6 +11,8 @@ moves = ["Setenta",
          "Siete",
          "Siete con Coca Cola",
          "Siete Moderno",
+         "Siete loco",
+         "Sombrero lungo",
          "Setenta y uno",
          "Ochenta y cuatro",
          "Cuarenta y cinco",
@@ -31,12 +33,12 @@ moves = ["Setenta",
          "Exhíbela dos con una",
          "Sombrero",
          "Sombrero doble",
-         "Sombrero doble",
          "Ponle sabor",
          "Kentucky",
          "Candado",
          "Candado complicado",
-         "Bailarina"]
+         "Bailarina",
+         ]
 
 
 
